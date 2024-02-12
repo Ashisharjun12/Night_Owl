@@ -33,8 +33,6 @@ function Home() {
     {/* Branch */}
    <Branch/>
 
-   {/* semester */}
-<Semester/>
 
 
    

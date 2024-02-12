@@ -16,15 +16,15 @@ function Bcard() {
 
   return (
     <div className=" flex flex-wrap gap-8 justify-between">
-      <Card onClick={()=>NaviGator('Subject')} img={cse} btnTxt='Computer Science'  />
-      <Card img={iot} color={'green'} btnTxt='Internet Of Things'  />
-      <Card img={ece}  btnTxt='Electrical and Electronics ' />
-      <Card img={mech}  btnTxt='Mechnical Engennering' />
-      <Card img={electrical}  btnTxt='Elecectrical Engennering ' />
-      <Card img={fire}  btnTxt='Fire Technology ' />
-      <Card img={leather}  btnTxt='Leather Technology ' />
-      <Card img={instrument}  btnTxt='Instrumental Engennering ' />
-      <Card img={vivi}  btnTxt='Civil Engennering ' />
+      <Card onClick={()=>NaviGator('Subject')} img={cse} btnTxt='Computer Science' branch="CSE"/>
+      <Card img={iot} color={'green'} btnTxt='Internet Of Things' branch = "IOT"/>
+      <Card img={ece}  btnTxt='Electrical and Communication Engineering' branch="ECE"/>
+      <Card img={mech}  btnTxt='Mechnical Engineering' branch="Mechanical"/>
+      <Card img={electrical}  btnTxt='Electrical and Electronics Engineering' branch="EEE"/>
+      <Card img={fire}  btnTxt='Fire Technology' branch="Fire"/>
+      <Card img={leather}  btnTxt='Leather Technology' branch="Leather" />
+      <Card img={instrument}  btnTxt='Instrumental Engineering' branch="Instrumental" />
+      <Card img={vivi}  btnTxt='Civil Engineering' branch ="Civil" />
      
     </div>
   )

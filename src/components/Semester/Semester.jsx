@@ -1,24 +1,18 @@
 
 import { useNavigate } from "react-router-dom"
 
-function Semester() {
+function Semester({branch}) {
 
-  
   const navigate = useNavigate()
   
-  function Shruti (value){
-  
-    
-    navigate(`Subject${value}` )
-    
-
+  function option (value){
+    navigate(`${branch}/${value}` )
   }
     
   return (
     <>
         
-        
-           <select  onChange={(e)=>Shruti(e.target.value)}  className='flex bg-transparent cursor-pointer font-[Nunito sans]  font-semibold text-zinc-800 my-2 mx-auto' name="semester" id="sem">
+           <select  onChange={(e)=>option(e.target.value)}  className='flex bg-transparent cursor-pointer font-[Nunito sans]  font-semibold text-zinc-800 my-2 mx-auto' name="semester" id="sem">
             <option  className='text-center cursor-pointer' value="0">SELECT SEMESTER</option>
             <option  className='text-center cursor-pointer' value="1">SEMESTER - I</option>
             <option  className='text-center cursor-pointer ' value="2">SEMESTER - II</option>
