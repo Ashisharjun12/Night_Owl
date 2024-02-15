@@ -1,4 +1,4 @@
-import { useNavigate } from "react-router-dom"
+
 
 import Card from "../Card/Card"
 import iot from '../Gifs/ii.gif'
@@ -12,19 +12,19 @@ import leather from '../Gifs/leather.gif'
 import instrument from '../Gifs/instrument.gif'
 
 function Bcard() {
-  const NaviGator = useNavigate()
+ 
 
   return (
     <div className=" flex flex-wrap gap-8 justify-between">
-      <Card onClick={()=>NaviGator('Subject')} img={cse} btnTxt='Computer Science' branch="CSE"/>
-      <Card img={iot} color={'green'} btnTxt='Internet Of Things' branch = "IOT"/>
-      <Card img={ece}  btnTxt='Electrical and Communication Engineering' branch="ECE"/>
-      <Card img={mech}  btnTxt='Mechnical Engineering' branch="Mechanical"/>
-      <Card img={electrical}  btnTxt='Electrical and Electronics Engineering' branch="EEE"/>
-      <Card img={fire}  btnTxt='Fire Technology' branch="Fire"/>
-      <Card img={leather}  btnTxt='Leather Technology' branch="Leather" />
-      <Card img={instrument}  btnTxt='Instrumental Engineering' branch="Instrumental" />
-      <Card img={vivi}  btnTxt='Civil Engineering' branch ="Civil" />
+      <Card img={cse} btnTxt='Computer Science' branch="Computer_Science_Engennering"/>
+      <Card img={iot} color={'green'} btnTxt='Internet Of Things' branch = "Internet_Of_Things"/>
+      <Card img={ece}  btnTxt='Electrical and Communication Engineering' branch="Electrical_and_Communication_Engineering"/>
+      <Card img={mech}  btnTxt='Mechnical Engineering' branch="Mechanical_Engennering"/>
+      <Card img={electrical}  btnTxt='Electrical and Electronics Engineering' branch="Electrical_and_Electronics_Engineering"/>
+      <Card img={fire}  btnTxt='Fire Technology' branch="Fire_Technology"/>
+      <Card img={leather}  btnTxt='Leather Technology' branch="Leather_Technology" />
+      <Card img={instrument}  btnTxt='Instrumental Engineering' branch="Instrumental_Engennering" />
+      <Card img={vivi}  btnTxt='Civil Engineering' branch ="Civil_Engennering" />
      
     </div>
   )

@@ -23,7 +23,7 @@ function Navbar() {
        </ul>
       
     </div>
-    <Link to='Account'> <Button style='py-[15px] px-[30px] text-[20px] ' btn='Login'/></Link>
+    <Link to='Account'> <Button  style='py-[15px] px-[30px] text-[20px] ' btn='Login'/></Link>
    
 
 

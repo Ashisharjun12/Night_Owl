@@ -1,7 +1,7 @@
 import React from 'react'
 import Branch from '../Branch/Branch'
 import hero from '../Images/hero.png'
-import Semester from '../Semester/Semester'
+
 
 
 function Home() {
@@ -33,17 +33,8 @@ function Home() {
     {/* Branch */}
    <Branch/>
 
-
-
-   
     </div>
 
-    
-
-
-
-
-   
     </>
   )
 }

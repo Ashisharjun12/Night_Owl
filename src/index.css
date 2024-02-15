@@ -8,7 +8,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Gilroy';
-  --primary: #F8F7F3;
+
 }
 
 ::selection{
@@ -18,7 +18,4 @@
 html,body{
   width: 100%;
   height: 100%;
-}
-img{
-  background-color: var(--primary);
 }

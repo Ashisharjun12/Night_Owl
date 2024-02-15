@@ -10,7 +10,7 @@ import Layout from './Layout.jsx'
 import Error from './components/Error/Error.jsx'
 import Sub from './Sub.jsx'
 import Subject from './components/Subject/Subject.jsx'
-import Semester from './components/Semester/Semester.jsx'
+
 import './index.css'
 
 
