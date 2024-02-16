@@ -1,6 +1,8 @@
 import React from 'react'
 import Branch from '../Branch/Branch'
 import hero from '../Images/hero.png'
+import Dropdown from '../Dropdown/Dropdown'
+
 
 
 
@@ -34,6 +36,7 @@ function Home() {
    <Branch/>
 
     </div>
+    <Dropdown/>
 
     </>
   )

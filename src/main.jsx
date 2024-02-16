@@ -18,7 +18,7 @@ const router = createBrowserRouter(
   createRoutesFromElements(
 
     <Route path='/' element={<Sub/>}>
-      {/* <Route path={`${branch}_${value}`} element={<Subject/>} /> */}
+
       <Route path="/:branch/:value" element={<Subject/>} />
      <Route path='/' element={<Layout/>}>
       <Route path="Account" element={<Account/>} />

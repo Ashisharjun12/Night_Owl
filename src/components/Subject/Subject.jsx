@@ -3,8 +3,9 @@ import { useParams } from 'react-router-dom';
 import Error from '../Error/Error';
 import Subject_Name from '../Branch_sem/Branch_Name';
 import Sem_No from '../Branch_sem/Sem_No';
-import Accordin from '../Accordian/Accordin';
-import Topic from '../Topic/Topic'
+
+
+
 
 function Subject() {
     const {branch,value} = useParams();
@@ -19,16 +20,17 @@ function Subject() {
       <h1><Subject_Name Branch_Name={branch}/></h1>
       <h1><Sem_No sem_no={value}/></h1>
     </div> 
-    <div className=" font-semibold text-black h-[80vh] col-span-1/2 text-center ">
-      Subjects
+    <div className=" bg-red-500 font-semibold text-white h-[80vh] col-span-1/2 text-center ">
+     subject
+
+
       <div>
-       <Accordin/>
-        
+  
       </div>
     </div>
     <div className="font-semibold bg-blue-600 col-span-2 text-center">
     <h1>Subject Topics</h1>
-      <Topic/>
+     topics
       
       </div>
    </div>

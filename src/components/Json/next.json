@@ -1,0 +1,106 @@
+[
+    {
+        "CSE":{
+            "Sem":{
+                "Sub":[
+                    {"Sname":"Chemistry","id":"1","Module":[
+                        {
+                            "Mname":"Module - 1","Mcontent":"Falier of netwon"
+                        },
+                        {
+                            "Mname":"Module - 2","Mcontent":"jjjsjdhgd"
+                        },
+                        {
+                            "Mname":"Module - 2","Mcontent":"jjjsjdhgd"
+                        },
+                        {
+                            "Mname":"Module - 2","Mcontent":"jjjsjdhgd"
+                        }
+
+                    ]},
+                    {"Sname":"Physics","id":"2","Module":[
+                        {
+                            "Mname":"Module - 1","Mcontent":"Falier of netwon"
+                        },
+                        {
+                            "Mname":"Module - 2","Mcontent":"jjjsjdhgd"
+                        },
+                        {
+                            "Mname":"Module - 2","Mcontent":"jjjsjdhgd"
+                        },
+                        {
+                            "Mname":"Module - 2","Mcontent":"jjjsjdhgd"
+                        }
+
+                    ]},
+                    {"Sname":"Maths","id":"3","Module":[
+                        {
+                            "Mname":"Module - 1","Mcontent":"Falier of netwon"
+                        },
+                        {
+                            "Mname":"Module - 2","Mcontent":"jjjsjdhgd"
+                        },
+                        {
+                            "Mname":"Module - 2","Mcontent":"jjjsjdhgd"
+                        },
+                        {
+                            "Mname":"Module - 2","Mcontent":"jjjsjdhgd"
+                        }
+
+                    ]}
+                ]
+            }
+        },
+        "Electrical":{
+            "Sem":{
+                "Sub":[
+                    {"Sname":"Chemistry","Module":[
+                        {
+                            "Mname":"Module - 1","Mcontent":"Falier of netwon"
+                        },
+                        {
+                            "Mname":"Module - 2","Mcontent":"jjjsjdhgd"
+                        },
+                        {
+                            "Mname":"Module - 2","Mcontent":"jjjsjdhgd"
+                        },
+                        {
+                            "Mname":"Module - 2","Mcontent":"jjjsjdhgd"
+                        }
+
+                    ]},
+                    {"Sname":"Chemistry","Module":[
+                        {
+                            "Mname":"Module - 1","Mcontent":"Falier of netwon"
+                        },
+                        {
+                            "Mname":"Module - 2","Mcontent":"jjjsjdhgd"
+                        },
+                        {
+                            "Mname":"Module - 2","Mcontent":"jjjsjdhgd"
+                        },
+                        {
+                            "Mname":"Module - 2","Mcontent":"jjjsjdhgd"
+                        }
+
+                    ]},
+                    {"Sname":"Chemistry","Module":[
+                        {
+                            "Mname":"Module - 1","Mcontent":"Falier of netwon"
+                        },
+                        {
+                            "Mname":"Module - 2","Mcontent":"jjjsjdhgd"
+                        },
+                        {
+                            "Mname":"Module - 2","Mcontent":"jjjsjdhgd"
+                        },
+                        {
+                            "Mname":"Module - 2","Mcontent":"jjjsjdhgd"
+                        }
+
+                    ]}
+                ]
+            }
+        }
+    }
+]
