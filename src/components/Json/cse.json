@@ -1,102 +1,75 @@
-
-
-[ 
-    {  
-         "Subject":"Chemistry",
-         "id":1,
-         "Sub":[
-            {
-                "id": 1,
-                "Module":"Module - 1",
-                "Topic":"Topic - 1 : Quantam Theory"
-                
-            },
-            {
-                "id": 2,
-                "Module":"Module - 2",
-                "Topic":"Topic - 2 : Quantam Theory"
-                
-            },
-            {
-                "id": 3,
-                "Module":"Module - 3",
-                "Topic":"Topic - 3 : Quantam Theory"
-                
-            },
-            {
-                "id": 4,
-                "Module":"Module - 4",
-                "Topic":"Topic - 3 : Quantam Theory"
-                
-            }
-           
-        ]
-        
-     },
-     {  
-        "Subject":"Physics",
-        "id":2,
-        "Sub":[
-           {
-               "id": 1,
-               "Module":"Module - 1",
-               "Topic":"Topic - 1 : Quantam Theory"
-               
-           },
-           {
-               "id": 2,
-               "Module":"Module - 2",
-               "Topic":"Topic - 2 : Quantam Theory"
-               
-           },
-           {
-               "id": 3,
-               "Module":"Module - 3",
-               "Topic":"Topic - 3 : Quantam Theory"
-               
-           }
-           
-          
-       ]
-       
-    },
-     {  
-        "Subject":"Maths",
-        "id":3,
-        "Sub":[
-           {
-               "id": 1,
-               "Module":"Module - 1",
-               "Topic":"Topic - 1 : Quantam Theory"
-               
-           },
-           {
-               "id": 2,
-               "Module":"Module - 2",
-               "Topic":"Topic - 2 : Quantam Theory"
-               
-           },
-           {
-               "id": 3,
-               "Module":"Module - 3",
-               "Topic":"Topic - 3 : Quantam Theory"
-               
-           },
-           {
-               "id": 4,
-               "Module":"Module - 4",
-               "Topic":"Topic - 3 : Quantam Theory"
-               
-           }
-           
-          
-       ]
-       
-    }
-
-    
-     
-
-     
-
+[
+  {
+    "Subject": "Chemistry",
+    "id": 1,
+    "Sub": [
+      {
+        "id": 1,
+        "Module": "Module - 1",
+        "Topic": "Topic - 1 : Quantam Theory"
+      },
+      {
+        "id": 2,
+        "Module": "Module - 2",
+        "Topic": "Topic - 2 : Quantam Theory"
+      },
+      {
+        "id": 3,
+        "Module": "Module - 3",
+        "Topic": "Topic - 3 : Quantam Theory"
+      },
+      {
+        "id": 4,
+        "Module": "Module - 4",
+        "Topic": "Topic - 3 : Quantam Theory"
+      }
+    ]
+  },
+  {
+    "Subject": "Physics",
+    "id": 2,
+    "Sub": [
+      {
+        "id": 1,
+        "Module": "Module - 1",
+        "Topic": "Topic - 1 : Quantam Theory"
+      },
+      {
+        "id": 2,
+        "Module": "Module - 2",
+        "Topic": "Topic - 2 : Quantam Theory"
+      },
+      {
+        "id": 3,
+        "Module": "Module - 3",
+        "Topic": "Topic - 3 : Quantam Theory"
+      }
+    ]
+  },
+  {
+    "Subject": "Maths",
+    "id": 3,
+    "Sub": [
+      {
+        "id": 1,
+        "Module": "Module - 1",
+        "Topic": "Topic - 1 : Quantam Theory"
+      },
+      {
+        "id": 2,
+        "Module": "Module - 2",
+        "Topic": "Topic - 2 : Quantam Theory"
+      },
+      {
+        "id": 3,
+        "Module": "Module - 3",
+        "Topic": "Topic - 3 : Quantam Theory"
+      },
+      {
+        "id": 4,
+        "Module": "Module - 4",
+        "Topic": "Topic - 3 : Atom"
+      }
+    ]
+  }
 ]

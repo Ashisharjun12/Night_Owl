@@ -1,9 +1,6 @@
 import { Disclosure } from '@headlessui/react'
 import { ChevronUpIcon } from '@heroicons/react/20/solid'
-import Module from '../Module/Module'
 import cse from '../Json/cse.json'
-
-
 
 
 function Accordin() {
@@ -11,7 +8,7 @@ function Accordin() {
  <div  className="w-full px-4 pt-16">
    {
     cse.map((index)=>{
-   return   <div className="mx-auto w-full max-w-md rounded-2xl bg-white p-2">
+   return   <div key={index.id} className="mx-auto w-full max-w-md rounded-2xl bg-white p-2">
            <Disclosure>
           {({ open }) => (
           <>
@@ -27,18 +24,14 @@ function Accordin() {
           <Disclosure.Panel  className="px-4  pb-2  pt-4 cursor-pointer text-md text-black">
            
          {index.Sub.map((i)=>{
-          return <div>
-
+          return <div key={i.id}>
             {i.Module}
             </div>
          })}
             </Disclosure.Panel>
-              
-         
              </>
           )}
            </Disclosure>
-
         </div>
     })
    }
