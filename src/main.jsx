@@ -17,21 +17,21 @@ import './index.css'
 const router = createBrowserRouter(
   createRoutesFromElements(
 
-    <Route path='/' element={<Sub/>}>
+    <Route path='/' element={<Sub />}>
 
-      <Route path="/:branch/:value" element={<Subject/>} />
-     <Route path='/' element={<Layout/>}>
-      <Route path="Account" element={<Account/>} />
-     <Route path='/' element={<App/>}>
-      <Route path="" element={<Home/>} />
-      <Route path="Categories" element={<Categories/>} />
-      <Route path="About" element={<About/>} />
-      <Route path="*" element={<Error/>} />
-      
+      <Route path="/:branch/:value" element={<Subject />} />
+      <Route path='/' element={<Layout />}>
+        <Route path="Account" element={<Account />} />
+        <Route path='/' element={<App />}>
+          <Route path="" element={<Home />} />
+          <Route path="Categories" element={<Categories />} />
+          <Route path="About" element={<About />} />
+          <Route path="*" element={<Error />} />
+
+        </Route>
+      </Route>
     </Route>
-    </Route>
-    </Route>
-    
+
   )
 
 )
