@@ -1,0 +1,287 @@
+[
+  {
+    "BranchId": 1,
+    "Branch": "Computer Science and Engineering",
+    "BranchLinkName": "Computer_Science_Engineering",
+    "BranchImage": "https://res.cloudinary.com/df3cpzmjs/image/upload/v1709150286/cse_ytix0q.gif",
+    "Semester": [
+      {
+        "Semester": 1,
+        "Subjects": [
+          {
+            "Subject": "Chemistry",
+            "SubjectId": 1,
+            "Modules": [
+              {
+                "ModuleId": 1,
+                "Name": "Atomic and Molecular Structure",
+                "Description": "Failure....."
+              },
+              {
+                "ModuleId": 2,
+                "Name": "Spectroscopy",
+                "Description": "Failure....."
+              },
+              {
+                "ModuleId": 3,
+                "Name": "Intermolecular forces",
+                "Description": "Failure....."
+              },
+              {
+                "ModuleId": 4,
+                "Name": "Chemical Equilibrium",
+                "Description": "Failure....."
+              },
+              {
+                "ModuleId": 5,
+                "Name": "Periodic properties",
+                "Description": "Failure....."
+              },
+              {
+                "ModuleId": 6,
+                "Name": "Spectroscopy",
+                "Description": "Failure....."
+              },
+              {
+                "ModuleId": 7,
+                "Name": "Organic Reactions",
+                "Description": "Failure....."
+              }
+            ]
+          },
+          {
+            "Subject": "English",
+            "SubjectId": 2,
+            "Modules": [
+              {
+                "ModuleId": 1,
+                "Name": "Preposition",
+                "Description": "Failure....."
+              },
+              {
+                "ModuleId": 2,
+                "Name": "Conjuction",
+                "Description": "Failure....."
+              },
+              {
+                "ModuleId": 3,
+                "Name": "Intermolecular forces",
+                "Description": "Failure....."
+              },
+              {
+                "ModuleId": 4,
+                "Name": "Chemical Equilibrium",
+                "Description": "Failure....."
+              },
+              {
+                "ModuleId": 5,
+                "Name": "Periodic properties",
+                "Description": "Failure....."
+              },
+              {
+                "ModuleId": 6,
+                "Name": "Spectroscopy",
+                "Description": "Failure....."
+              },
+              {
+                "ModuleId": 7,
+                "Name": "Organic Reactions",
+                "Description": "Failure....."
+              }
+            ]
+          },
+          {
+            "Subject": "Mathematics - I",
+            "SubjectId": 3,
+            "Modules": [
+              {
+                "ModuleId": 1,
+                "Name": "Atomic and Molecular Structure",
+                "Description": "Failure....."
+              },
+              {
+                "ModuleId": 2,
+                "Name": "Spectroscopy",
+                "Description": "Failure....."
+              },
+              {
+                "ModuleId": 3,
+                "Name": "Intermolecular forces",
+                "Description": "Failure....."
+              },
+              {
+                "ModuleId": 4,
+                "Name": "Chemical Equilibrium",
+                "Description": "Failure....."
+              },
+              {
+                "ModuleId": 5,
+                "Name": "Periodic properties",
+                "Description": "Failure....."
+              },
+              {
+                "ModuleId": 6,
+                "Name": "Spectroscopy",
+                "Description": "Failure....."
+              },
+              {
+                "ModuleId": 7,
+                "Name": "Organic Reactions",
+                "Description": "Failure....."
+              }
+            ]
+          },
+          {
+            "Subject": "WMP",
+            "SubjectId": 4,
+            "Modules": [
+              {
+                "ModuleId": 1,
+                "Name": "Atomic and Molecular Structure",
+                "Description": "Failure....."
+              },
+              {
+                "ModuleId": 2,
+                "Name": "Spectroscopy",
+                "Description": "Failure....."
+              },
+              {
+                "ModuleId": 3,
+                "Name": "Intermolecular forces",
+                "Description": "Failure....."
+              },
+              {
+                "ModuleId": 4,
+                "Name": "Chemical Equilibrium",
+                "Description": "Failure....."
+              },
+              {
+                "ModuleId": 5,
+                "Name": "Periodic properties",
+                "Description": "Failure....."
+              },
+              {
+                "ModuleId": 6,
+                "Name": "Spectroscopy",
+                "Description": "Failure....."
+              },
+              {
+                "ModuleId": 7,
+                "Name": "Organic Reactions",
+                "Description": "Failure....."
+              }
+            ]
+          },
+          {
+            "Subject": "PPS",
+            "SubjectId": 5,
+            "Modules": [
+              {
+                "ModuleId": 1,
+                "Name": "Atomic and Molecular Structure",
+                "Description": "Failure....."
+              },
+              {
+                "ModuleId": 2,
+                "Name": "Spectroscopy",
+                "Description": "Failure....."
+              },
+              {
+                "ModuleId": 3,
+                "Name": "Intermolecular forces",
+                "Description": "Failure....."
+              },
+              {
+                "ModuleId": 4,
+                "Name": "Chemical Equilibrium",
+                "Description": "Failure....."
+              },
+              {
+                "ModuleId": 5,
+                "Name": "Periodic properties",
+                "Description": "Failure....."
+              },
+              {
+                "ModuleId": 6,
+                "Name": "Spectroscopy",
+                "Description": "Failure....."
+              },
+              {
+                "ModuleId": 7,
+                "Name": "Organic Reactions",
+                "Description": "Failure....."
+              }
+            ]
+          }
+        ]
+      },
+      { "Semester": 2, "Subjects": [{}] },
+      { "Semester": 3, "Subjects": [{}] },
+      { "Semester": 4, "Subjects": [{}] },
+      { "Semester": 5, "Subjects": [{}] },
+      { "Semester": 6, "Subjects": [{}] },
+      { "Semester": 7, "Subjects": [{}] },
+      { "Semester": 8, "Subjects": [{}] }
+    ]
+  },
+  {
+    "BranchId": 2,
+    "Branch": "CSE[IOT]",
+    "BranchLinkName": "Internet_Of_Things",
+    "BranchImage": "https://res.cloudinary.com/df3cpzmjs/image/upload/v1709150771/iot_rtdzyc.gif"
+  },
+  {
+    "BranchId": 3,
+    "Branch": "EEE",
+    "BranchLinkName": "Electrical_and_Electronics_Engineering",
+    "BranchImage": "../Images/electrical.gif"
+  },
+  {
+    "BranchId": 4,
+    "Branch": "Electrical Engineering",
+    "BranchLinkName": "Electrical_Engineering",
+    "BranchImage": "https://res.cloudinary.com/df3cpzmjs/image/upload/v1709150443/ece_fyjyfh.gif"
+  },
+  {
+    "BranchId": 5,
+    "Branch": "Mechanical Engineering",
+    "BranchLinkName": "Mechanical_Engennering",
+    "BranchImage": "https://res.cloudinary.com/df3cpzmjs/image/upload/v1709150774/mech_a6ltxa.gif"
+  },
+  {
+    "BranchId": 6,
+    "Branch": "Civil Engineering",
+    "BranchLinkName": "Civil_Engineering",
+    "BranchImage": "https://res.cloudinary.com/df3cpzmjs/image/upload/v1709150647/civil_uhh0in.gif"
+  },
+  {
+    "BranchId": 7,
+    "Branch": "Leather Technology",
+    "BranchLinkName": "Leather_Technology",
+    "BranchImage": "https://res.cloudinary.com/df3cpzmjs/image/upload/v1709150774/leather_lmk3uz.gif"
+  },
+  {
+    "BranchId": 8,
+    "Branch": "Fire Technology & Safety",
+    "BranchLinkName": "Fire_Technology",
+    "BranchImage": "https://res.cloudinary.com/df3cpzmjs/image/upload/v1709150558/fire_gbbwq9.gif"
+  },
+  {
+    "BranchId": 9,
+    "Branch": "Information Technology",
+    "BranchLinkName": "Information_Technology",
+    "BranchImage": "https://res.cloudinary.com/df3cpzmjs/image/upload/v1709151254/ii_o84qfi.gif"
+  },
+  {
+    "BranchId": 10,
+    "Branch": "Instrumentation Engineering",
+    "BranchLinkName": "Instrumental_Engennering",
+    "BranchImage": "https://res.cloudinary.com/df3cpzmjs/image/upload/v1709151146/instrument_rcvfif.gif"
+  },
+  {
+    "BranchId": 11,
+    "Branch": "Electronics and Communication Engineering",
+    "BranchLinkName": "Electrical_and_Communication_Engineering",
+    "BranchImage": "https://res.cloudinary.com/df3cpzmjs/image/upload/v1709149871/electrical_exalnn.gif"
+  }
+]
